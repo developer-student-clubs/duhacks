@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/duhacks/static/css/main.e0c784d0.css",
-    "main.js": "/duhacks/static/js/main.9389f7a9.js",
-    "index.html": "/duhacks/index.html",
-    "main.e0c784d0.css.map": "/duhacks/static/css/main.e0c784d0.css.map",
-    "main.9389f7a9.js.map": "/duhacks/static/js/main.9389f7a9.js.map"
+    "main.css": "/static/css/main.e0c784d0.css",
+    "main.js": "/static/js/main.9389f7a9.js",
+    "index.html": "/index.html",
+    "main.e0c784d0.css.map": "/static/css/main.e0c784d0.css.map",
+    "main.9389f7a9.js.map": "/static/js/main.9389f7a9.js.map"
   },
   "entrypoints": [
     "static/css/main.e0c784d0.css",
